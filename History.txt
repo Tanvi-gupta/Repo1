@@ -1,0 +1,11 @@
+    1  cd /home/ubuntu
+    2  ls
+    3  cd my_projects
+    4  ls
+    5  cd Repo1
+    6  ls
+    7  vi /root/.gitconfig
+    8  git log
+    9  git push
+   10  ls
+   11  history > History.txt
